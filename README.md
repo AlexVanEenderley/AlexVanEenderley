@@ -48,7 +48,7 @@ Foi nesse momento, que entendi o porque a tecnologia entrou na minha vida, por g
   
 ##
 ### Studying in this moment:
-  Design de levels
-  JavaScript
-  Desenvolvimento de games
+  Design de levels<br>
+  JavaScript<br>
+  Desenvolvimento de games<br>
   Unreal Engine
